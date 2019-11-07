@@ -44,6 +44,7 @@
     "gh-pages": "^2.1.1",
     "husky": "^3.0.9",
     "lint-staged": "^9.4.2",
-    "prettier": "^1.18.2"
+    "prettier": "^1.18.2",
+    "uuid": "^3.3.3"
   }
 }
